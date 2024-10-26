@@ -1,0 +1,32 @@
+{
+    "initial_rental_numbers": 4,
+    "initial_customers": [
+        "Alice",
+        "Bob",
+        "Charlie",
+        "David"
+    ],
+    "cars": [
+        {
+            "type": "PassengerCar",
+            "license_plate": "ABC-001",
+            "model": "Toyota Corolla",
+            "price": 100,
+            "capacity": 5
+        },
+        {
+            "type": "PassengerCar",
+            "license_plate": "ABC-002",
+            "model": "Honda Civic",
+            "price": 120,
+            "capacity": 5
+        },
+        {
+            "type": "Truck",
+            "license_plate": "ABC-003",
+            "model": "Ford Transit",
+            "price": 150,
+            "capacity": 1000
+        }
+    ]
+}
